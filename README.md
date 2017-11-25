@@ -24,3 +24,6 @@ Use the price history AND two other metrics of your choice to predict the price 
 
 Credits go to [jaungiers](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction). I've merely created a wrapper to get people started.
 
+##Vermeer's notes
+
+$ pip install --upgrade pip
