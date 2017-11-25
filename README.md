@@ -26,6 +26,8 @@ Credits go to [jaungiers](https://github.com/jaungiers/LSTM-Neural-Network-for-T
 
 ## Vermeer's installation notes
 
-$ pip install --upgrade pip
-$ pip install --upgrade tensorflow
-$ pip install --upgrade keras
+```
+pip install --upgrade pip
+pip install --upgrade tensorflow
+pip install --upgrade keras
+```
